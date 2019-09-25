@@ -49,3 +49,7 @@ All SVG icons stored in `site/static/img/icons` are automatically optimized with
 merge test 1
 
 Merge test 2
+
+Test 1
+
+Test 2
