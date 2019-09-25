@@ -51,3 +51,5 @@ merge test 1
 Merge test 2
 
 Test 1
+
+Test 2
